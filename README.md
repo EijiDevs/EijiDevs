@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://leetcard.jacoblin.cool/EijiDevs?ext=heatmap)
+<div align="center">![](https://leetcard.jacoblin.cool/EijiDevs?ext=heatmap)</div>
