@@ -27,11 +27,11 @@
 <h3 align="center">"Not everyone can become a great artist; but a great artist can come from anywhere"</h3>
 
 - 🔭 I’m currently working on **Lanix ERP S.A**. Where I'm developing software solutions specialized in ERP systems for small and medium-sized companies in Chile.
-- 🌱 I’m currently learning about **Cloud Computing with AWS**, **Docker** and **Fintech**
+- 🌱 I’m currently learning about **Cloud Computing with AWS** and **Artificial Intelligence**
 - ☁️ I've keen interest in starting my own startup. I'm passionate about Entrepreneurship.❤️
-- 💬 Ask me about **Software Arquitecture** and **Artificial Intelligence**
+- 💬 Ask me about **Software Arquitecture** (I like it a lot although I'm not the best).
 - 📷 In addition to computer science and problem solving, I am also a passionate film maker and designer. 🖌️
-- 👨‍🏫 I’m looking to collaborate on **Programming teaching programs and financial training**
+- 👨‍🏫 I am looking to collaborate in **Programming teaching, interesting ideas and interesting projects in the Startup world**.
 - 📫 Feel free to reach me out **bestebanperafan@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,figma,github,html,java,js,linux,md,nginx,mongodb,mysql,php,nodejs,bash,cpp,express,gradle,npm,ps,spring,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,linux,md,nginx,mongodb,mysql,php,nodejs,bash,express,gradle,npm,spring,postman,vscode&perline=14" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws&perline=14" />
   </a>
 </p>
 
