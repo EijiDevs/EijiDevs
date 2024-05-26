@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning about **Cloud Computing with AWS** and **Artificial Intelligence**
 - ☁️ I've keen interest in starting my own startup. I'm passionate about Entrepreneurship.❤️
 - 💬 Ask me about **Software Arquitecture** (I like it a lot although I'm not the best).
-- 📷 In addition to computer science and problem solving, I am also a passionate film maker and designer. 🖌️
+- 📷 In addition to computer science and problem solving, I am also a passionate film maker and designer. 🖌️ (Although none of my projects have been published yet.)
 - 👨‍🏫 I am looking to collaborate in **Programming teaching, interesting ideas and interesting projects in the Startup world**.
 - 📫 Feel free to reach me out **bestebanperafan@gmail.com**
 
