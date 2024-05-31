@@ -26,7 +26,7 @@
 
 <h3 align="center">"Not everyone can become a great artist; but a great artist can come from anywhere"</h3>
 
-- 🔭 I’m currently working on **Lanix ERP S.A**. Where I'm developing software solutions specialized in ERP systems for small and medium-sized companies in Chile.
+- 🔭 I’m currently working as a freelancer for **Lanix ERP S.A**. Where I'm developing software solutions specialized in ERP systems for small and medium-sized companies in Chile.
 - 🌱 I’m currently learning about **React** and **Artificial Intelligence**
 - ☁️ I've keen interest in starting my own startup. I'm passionate about Entrepreneurship.❤️
 - 💬 Ask me about **Software Arquitecture** (I like it a lot although I'm not the best).
