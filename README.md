@@ -12,6 +12,11 @@
 </div>
 
 <blockquote>
+  <p>"If you don't see a programmer working on personal projects on GitHub, they're probably busy writing code that they're getting paid for."</p>
+  <b><footer>Devs</footer></b>
+</blockquote>
+<hr>
+<blockquote>
   <p>"We cannot solve our problems with the same thinking we used when we created them"</p>
   <b><footer>Albert Einstein</footer></b>
 </blockquote>
@@ -26,10 +31,10 @@
 
 <h3 align="center">"Not everyone can become a great artist; but a great artist can come from anywhere"</h3>
 
-- 🔭 I’m currently working as a freelancer for **Lanix ERP S.A**. Where I'm developing software solutions specialized in ERP systems for small and medium-sized companies in Chile.
-- 🌱 I’m currently learning about **React** and **Artificial Intelligence**
+- 🔭 Freelancer for Lanix ERP S.A and Koop Studios S.P.A. My work spans various software solutions, including web-based ERP systems, applications, websites, web services, and game development for medium and large enterprises in Chile and Western Europe.
+- 🌱 I’m currently learning about **React** and **Cloud Computing**.
 - ☁️ I've keen interest in starting my own startup. I'm passionate about Entrepreneurship.❤️
-- 💬 Ask me about **Software Arquitecture** (I like it a lot although I'm not the best).
+- 💬 Ask me about **Videogames** (I like it a lot although I'm not the best).
 - 📷 In addition to computer science and problem solving, I am also a passionate film maker and designer. 🖌️ (Although none of my projects have been published yet.)
 - 👨‍🏫 I am looking to collaborate in **Programming teaching, interesting ideas and interesting projects in the Startup world**.
 - 📫 Feel free to reach me out **bestebanperafan@gmail.com**
@@ -45,11 +50,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,linux,md,nginx,mongodb,mysql,php,nodejs,bash,express,gradle,npm,spring,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,java,js,linux,md,mysql,vscode&perline=14" />
   </a>
 </p>
 
-- Additionally, other technologies that I know but could not include with their logos are Spring Boot, JUnit5 and Subversion😅
+- Additionally, other technologie that I know but could not include with their logo is Subversion😅
 
 <div id="user-content-toc">
   <ul align="center">
@@ -59,12 +64,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,aws&perline=14" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Competitive statistics🗽 (I'm rising)</h2></summary>
@@ -74,6 +80,7 @@
 <p align="center"><img width="700" height="400" src="https://leetcard.jacoblin.cool/EijiDevs?ext=heatmap"></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
