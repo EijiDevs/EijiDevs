@@ -31,17 +31,16 @@
 
 <h3 align="center">"Not everyone can become a great artist; but a great artist can come from anywhere"</h3>
 
-- 🔭 Freelancer for Lanix ERP S.A and Koop Studios S.P.A. My work spans various software solutions, including web-based ERP systems, applications, websites, web services, and game development for medium and large enterprises in Chile and Western Europe.
-- 🌱 I’m currently learning about **React** and **Cloud Computing**.
-- ☁️ I've keen interest in starting my own startup. I'm passionate about Entrepreneurship.❤️
-- 💬 Ask me about **Videogames** (I like it a lot although I'm not the best).
+- 🔭 Freelancer for Lanix ERP S.A. My work spans various software solutions, including web-based ERP systems, applications, websites and web services for medium and large enterprises in Chile and Western Europe.
+- 🌱 I’m currently learning about a lot of things.
+- ☁️ I've keen interest in starting my own personal brand.
 - 📷 In addition to computer science and problem solving, I am also a passionate film maker and designer. 🖌️ (Although none of my projects have been published yet.)
-- 👨‍🏫 I am looking to collaborate in **Programming teaching, interesting ideas and interesting projects in the Startup world**.
+- 👨‍🏫 I am looking to collaborate in **Creative and Interesting projects**.
 - 📫 Feel free to reach me out **bestebanperafan@gmail.com**
 
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know🧰</h2></summary>
@@ -70,7 +69,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Competitive statistics🗽 (I'm rising)</h2></summary>
