@@ -31,9 +31,10 @@
 
 <h3 align="center">"Not everyone can become a great artist; but a great artist can come from anywhere"</h3>
 
-- 🔭 Freelancer for Lanix ERP S.A. My work spans various software solutions, including web-based ERP systems, applications, websites and web services for medium and large enterprises in Chile and Western Europe.
+- 🔭 I work full-time at Lanix ERP S.A., where I develop and maintain enterprise ERP and CRM systems using Java, build Android mobile applications with Kotlin/Java, and create modern, reactive web applications in PHP.
+- ☁️ Despite this broad scope, my main focus at Lanix is on the design, development, and maintenance of cloud-based REST and SOAP web services, which power our core electronic invoicing platform fully integrated with the SII (Servicio de Impuestos Internos) of Chile. These services are critical to the operation of all our internal systems and external applications.
+- 💼 Additionally, I work part-time as a freelancer, collaborating with mid-to-large companies in Chile and Western Europe. I’ve contributed to projects such as self-service mobile applications integrated with advanced hardware, E-Commerce platforms, and Learning Management Systems (LMS).
 - 🌱 I’m currently learning about a lot of things.
-- ☁️ I've keen interest in starting my own personal brand.
 - 📷 In addition to computer science and problem solving, I am also a passionate film maker and designer. 🖌️ (Although none of my projects have been published yet.)
 - 👨‍🏫 I am looking to collaborate in **Creative and Interesting projects**.
 - 📫 Feel free to reach me out **bestebanperafan@gmail.com**
