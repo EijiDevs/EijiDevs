@@ -44,6 +44,22 @@ Currently, I work full-time at **Lanix ERP S.A.**, building and maintaining core
 
 ---
 
+### 🧰 Tech Stack  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,docker,jenkins,rabbitmq,postgres,aws,gcp,linux,git,maven,react,laravel&perline=6" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx,bash,mysql,idea,vscode,html,css,github&perline=6" />
+  </a>
+</p>
+
+---
+
 ### 🤝 Let’s Collaborate  
 I’m always open to working on **innovative backend or integration projects** — especially those that push the boundaries of scalability and design.  
 If you’re building something ambitious and need someone who thrives at the intersection of **architecture, performance, and creativity**, let’s connect!  
