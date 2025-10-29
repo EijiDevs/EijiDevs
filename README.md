@@ -37,7 +37,8 @@ Currently, I work full-time at **Lanix ERP S.A.**, building and maintaining core
 ---
 
 ### 🌱 Currently Exploring  
-- **Spring Boot** and **Kotlin** for cloud-native backend development.  
+- **Spring Boot** and **Kotlin** for cloud-native backend development.
+- **MuleSoft** for enterprise integration and API management.
 - Advanced **DevOps practices**: CI/CD orchestration, container security, and distributed tracing.  
 - Modern **cloud architectures** on AWS and GCP.
 
