@@ -72,7 +72,7 @@ Python with Celery, LangChain, LangGraph and LangSmith, plus AWS.
 <p>
   <picture>
     <source media="(max-width: 600px)" srcset="assets/strip-tall.webp">
-    <img src="assets/strip-wide.webp" width="100%" alt="Panels and scenes from things I love: Magic Emperor, SSS-Class, Star-Embracing Swordmaster, Zelda and Wanderer above the Sea of Fog.">
+    <img src="assets/strip-wide.webp" width="100%" alt="Scenes from things I love, among them Star-Embracing Swordmaster, Magic Emperor, Zelda and the Wanderer above the Sea of Fog.">
   </picture>
 </p>
 
