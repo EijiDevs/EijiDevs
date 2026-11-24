@@ -76,10 +76,8 @@ def fetch_days(login, token):
 
 
 def streaks(days):
-    """Current and longest streak. Today doesn't break a streak until it ends."""
     run, longest = [], []
-    closed = days[:-1] if days[-1][1] == 0 else days
-    for day, count in closed:
+    for day, count in days:
         run = run + [day] if count else []
         longest = max(longest, run, key=len)
     return run, longest
@@ -114,7 +112,13 @@ def plural(count, word):
     return word if count == 1 else f"{word}s"
 
 
+def without_empty_today(days):
+    """A day with nothing yet doesn't break a streak until it ends."""
+    return days[:-1] if days[-1][1] == 0 else days
+
+
 def card(days, layout, title, label, note):
+    days = without_empty_today(days)
     current, longest = streaks(days)
     busiest, top = max(days, key=lambda d: d[1])
     figures = [
