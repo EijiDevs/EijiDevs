@@ -1,0 +1,1 @@
+Subsets of [Bricolage Grotesque](https://github.com/ateliertriay/bricolage) (`title.ttf`) and [Geist](https://github.com/vercel/geist-font) (`label.ttf`, `note.ttf`), both under the [SIL Open Font License 1.1](https://openfontlicense.org).

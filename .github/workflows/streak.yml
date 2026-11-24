@@ -1,0 +1,32 @@
+name: streak
+
+on:
+  schedule:
+    - cron: "23 4,16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: streak
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - run: pip install fonttools==4.68.0
+      - run: python streak.py "${{ github.repository_owner }}" assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit the cards if they changed
+        run: |
+          git diff --quiet -- assets && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -qm "Actualizar la racha" -- assets/streak-wide.svg assets/streak-tall.svg
+          git push -q
